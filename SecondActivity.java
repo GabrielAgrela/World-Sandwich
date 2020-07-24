@@ -177,7 +177,7 @@ public class SecondActivity extends AppCompatActivity
         });
     }
 
-    //gets alll data from each bramch inside branch until it gets to the message String
+    //gets alll data from each branch inside branch until it gets to the message String
     private void updateChat()
     {
         DatabaseReference mref;
